@@ -1,0 +1,72 @@
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriEkle.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatis.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.GenerateResource.cache
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe.config
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.pdb
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.exe
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.pdb
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriListele.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmKategori.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMarka.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünEkle.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünListele.resources
+C:\Users\osama\source\repos\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatışListele.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe.config
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.pdb
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmKategori.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMarka.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriEkle.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriListele.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatis.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatışListele.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünEkle.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünListele.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.GenerateResource.cache
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.exe
+C:\Users\osama\OneDrive\سطح المكتب\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.pdb
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe.config
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.pdb
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.AssemblyReference.cache
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.SuggestedBindingRedirects.cache
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmKategori.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMarka.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriEkle.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriListele.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatis.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatışListele.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünEkle.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünListele.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.GenerateResource.cache
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.CoreCompileInputs.cache
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.exe
+E:\Bilgisayar Müh\2. Sınıf\2.Dönem\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.pdb
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe.config
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.exe
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\bin\Debug\Stok-Otomasyonu.pdb
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.AssemblyReference.cache
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.SuggestedBindingRedirects.cache
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmKategori.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMarka.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriEkle.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmMüşteriListele.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatis.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmSatışListele.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünEkle.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.frmÜrünListele.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.GenerateResource.cache
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.csproj.CoreCompileInputs.cache
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.exe
+E:\Bilgisayar Müh\2. Sınıf\Stok-Otomasyonu\Stok-Otomasyonu\obj\Debug\Stok-Otomasyonu.pdb
